@@ -58,5 +58,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brauzer06&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[<img align='left' alt='CodeWars' width='300px' src='https://www.codewars.com/users/AHMATOLOG/badges/large'/>](https://www.codewars.com/users/AHMATOLOG/completed_solutions)
 
 
