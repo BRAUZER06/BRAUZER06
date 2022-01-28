@@ -1,4 +1,4 @@
-[![Header](https://github.com/BRAUZER06/BRAUZER06/blob/main/assets/IDUBBBZ%20I'M%20GAY%20MEME.mp4)](https://t.me/ING_6)
+[![Header](https://github.com/BRAUZER06/BRAUZER06/blob/main/assets/gandalf-sax-guy.gif)](https://t.me/ING_6)
 
 ## I am a Frontend developer, I am 19 years old, I live in Ingushetia
 
