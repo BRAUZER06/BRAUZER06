@@ -2,10 +2,11 @@
 
 ## I am a Frontend developer, I am 19 years old, I live in Ingushetia
 
+#
 
-Latest YouTube Videos
 
-### Languages and Tools
+## Languages and Tools
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=000)
 ![React](https://img.shields.io/badge/-React-00BFFF?style=for-the-badge&logo=react&logoColor=000)
 ![Redux](https://img.shields.io/badge/-Redux-5A009D?style=for-the-badge&logo=redux&logoColor=000)
@@ -17,12 +18,12 @@ Latest YouTube Videos
 
 ![Git](https://img.shields.io/badge/-Git-f75e5e?style=for-the-badge&logo=git&logoColor=000)
 ![GitHub](https://img.shields.io/badge/-GitHub-101012?style=for-the-badge&logo=GitHub&logoColor=fff)
-![BEM](https://img.shields.io/badge/-BEM-00ffdd?style=for-the-badge&logo=bem&logoColor=000)
+![BEM](https://img.shields.io/badge/-BEM-008275?style=for-the-badge&logo=bem&logoColor=000)
 
 ![Figma](https://img.shields.io/badge/-Figma-0d8200?style=for-the-badge&logo=Figma&logoColor=fff)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-011161?style=for-the-badge&logo=AdobePhotoshop&logoColor=fff)
 
-Пользовался
+### Пользовался
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-3f00ab?style=for-the-badge&logo=Bootstrap&logoColor=fff)
 ![material ui](https://img.shields.io/badge/-material_ui-4260f5?style=for-the-badge&logo=materialui&logoColor=fff)
@@ -36,12 +37,23 @@ Latest YouTube Videos
 
 
 
+#
+## Связаться
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ING_6)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](www.instagram.com/gelathoev)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/brauzer06)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)]()
+[![Mail](https://img.shields.io/badge/-Mail-090909?style=for-the-badge&logo=Mail&logoColor=4F7DB3)](https://vk.com/brauzer06)
+
+
+<!-- [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/alexeyshpavda)
+[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/alexeyshpavda) -->
 
 
 
-Styled-components
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brauzer06&show_icons=true&theme=radical)
 
 
 
-
-Follow Me
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brauzer06&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
