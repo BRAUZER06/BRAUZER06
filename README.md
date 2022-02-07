@@ -28,11 +28,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-3f00ab?style=for-the-badge&logo=Bootstrap&logoColor=fff)
 ![material ui](https://img.shields.io/badge/-material_ui-4260f5?style=for-the-badge&logo=materialui&logoColor=fff)
 
-Когда-то учил (пытался учить)
-
-![Java](https://img.shields.io/badge/-Java-ed9224?style=for-the-badge&logo=Java&logoColor=160085)
-![Python](https://img.shields.io/badge/-Python-ffee00?style=for-the-badge&logo=Python&logoColor=000)
-![English](https://img.shields.io/badge/-English-ffee00?style=for-the-badge&logo=English&logoColor=fff) :D
 
 
 
