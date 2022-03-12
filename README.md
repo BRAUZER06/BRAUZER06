@@ -5,7 +5,7 @@
 #
 
 
-## Languages and Tools
+### Мои навыки:
 
 
 ![React](https://img.shields.io/badge/-React-00BFFF?style=for-the-badge&logo=react&logoColor=000)
