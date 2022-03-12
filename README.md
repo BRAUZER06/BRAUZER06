@@ -12,7 +12,6 @@
 ![Redux](https://img.shields.io/badge/-Redux-5A009D?style=for-the-badge&logo=redux&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-2f74c0?style=for-the-badge&logo=TypeScript&logoColor=000)
 <img alt="Redux-Thunk" src="https://img.shields.io/badge/-Redux_Thunk-white?style=for-the-badge&logo=Redux&logoColor=430098" />
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=000)
 <img alt="Redux-Devtools" src="https://img.shields.io/badge/redux devtools-430098?style=for-the-badge&logo=redux">
 <img alt="React-Router" src="https://img.shields.io/badge/-React_Router-black?style=for-the-badge&logo=react-router&logoColor=orange" />
@@ -26,8 +25,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-101012?style=for-the-badge&logo=GitHub&logoColor=fff)
 ![BEM](https://img.shields.io/badge/-BEM-008275?style=for-the-badge&logo=bem&logoColor=000)
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-grey?style=for-the-badge&logo=Prettier&logoColor=orange" />
-
-  <img alt="Axios" src="https://img.shields.io/badge/-Axios-black?style=for-the-badge&logo=&logoColor=white" />
+<img alt="Axios" src="https://img.shields.io/badge/-Axios-black?style=for-the-badge&logo=&logoColor=white" />
 
 ![Figma](https://img.shields.io/badge/-Figma-0d8200?style=for-the-badge&logo=Figma&logoColor=fff)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-011161?style=for-the-badge&logo=AdobePhotoshop&logoColor=fff)
@@ -38,7 +36,6 @@
 ![material ui](https://img.shields.io/badge/-material_ui-4260f5?style=for-the-badge&logo=materialui&logoColor=fff)
 ![Webpack](https://img.shields.io/badge/-Webpack-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/styled_components%20-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white)
-
 ![jsonwebtoken](https://img.shields.io/badge/-jsonwebtoken-red?style=for-the-badge)
 <img alt="express" src="https://img.shields.io/badge/express-green?style=for-the-badge&logo=express">
  <img alt="Mongo-DB" src="https://img.shields.io/badge/-Mongo_DB-red?style=for-the-badge&logo=MongoDB&logoColor=black" />
