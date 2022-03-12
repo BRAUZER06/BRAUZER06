@@ -26,6 +26,7 @@
 ![BEM](https://img.shields.io/badge/-BEM-008275?style=for-the-badge&logo=bem&logoColor=000)
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-grey?style=for-the-badge&logo=Prettier&logoColor=orange" />
 ![jsonwebtoken](https://img.shields.io/badge/-jsonwebtoken-red?style=for-the-badge)
+  <img alt="Axios" src="https://img.shields.io/badge/-Axios-black?style=for-the-badge&logo=&logoColor=white" />
 
 ![Figma](https://img.shields.io/badge/-Figma-0d8200?style=for-the-badge&logo=Figma&logoColor=fff)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-011161?style=for-the-badge&logo=AdobePhotoshop&logoColor=fff)
@@ -35,6 +36,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-3f00ab?style=for-the-badge&logo=Bootstrap&logoColor=fff)
 ![material ui](https://img.shields.io/badge/-material_ui-4260f5?style=for-the-badge&logo=materialui&logoColor=fff)
 ![Webpack](https://img.shields.io/badge/-Webpack-blue?style=for-the-badge)
+![](https://img.shields.io/badge/styled_components%20-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white)
 <img alt="express" src="https://img.shields.io/badge/express-green?style=for-the-badge&logo=express">
  <img alt="Mongo-DB" src="https://img.shields.io/badge/-Mongo_DB-red?style=for-the-badge&logo=MongoDB&logoColor=black" />
  <img alt="eslint" src="https://img.shields.io/badge/eslint-blue?style=for-the-badge&logo=eslint">
@@ -44,6 +46,7 @@
 ![MobX](https://img.shields.io/badge/-MobX-turquoise?style=for-the-badge)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-green?style=for-the-badge)
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=for-the-badge)
 <!-- <img alt="bcrypt" src="https://img.shields.io/badge/bcrypt-green?style=for-the-badge&logo"> -->
 <!-- <img alt="Mongoose" src="https://img.shields.io/badge/mongoose-green?style=for-the-badge&logo=mongoose"> -->
 
