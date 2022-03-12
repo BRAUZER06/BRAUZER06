@@ -36,6 +36,15 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-blue?style=for-the-badge)
 <img alt="express" src="https://img.shields.io/badge/express-green?style=for-the-badge&logo=express">
  <img alt="Mongo-DB" src="https://img.shields.io/badge/-Mongo_DB-red?style=for-the-badge&logo=MongoDB&logoColor=black" />
+ 
+ ### Чтобы я хотел изучить  в будущем:
+![MobX](https://img.shields.io/badge/-MobX-turquoise?style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/-Vue.js-green?style=for-the-badge)
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+<img alt="bcrypt" src="https://img.shields.io/badge/bcrypt-green?style=for-the-badge&logo">
+<img alt="Mongoose" src="https://img.shields.io/badge/mongoose-green?style=for-the-badge&logo=mongoose">
+<img alt="eslint" src="https://img.shields.io/badge/eslint-blue?style=for-the-badge&logo=eslint">
+<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-764ABC?style=for-the-badge&logo=heroku&logoColor=white" />
 
 
 #
@@ -46,6 +55,7 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/brauzer06)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)]()
 [![Mail](https://img.shields.io/badge/-Mail-090909?style=for-the-badge&logo=Mail&logoColor=4F7DB3)](https://e.mail.ru/cgi-bin/sentmsg?To=meda.oziev@mail.ru&from=otvet)
+![jsonwebtoken](https://img.shields.io/badge/-jsonwebtoken-red?style=for-the-badge)
 
 
 <!-- [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/alexeyshpavda)
