@@ -37,15 +37,16 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-blue?style=for-the-badge)
 <img alt="express" src="https://img.shields.io/badge/express-green?style=for-the-badge&logo=express">
  <img alt="Mongo-DB" src="https://img.shields.io/badge/-Mongo_DB-red?style=for-the-badge&logo=MongoDB&logoColor=black" />
+ <img alt="eslint" src="https://img.shields.io/badge/eslint-blue?style=for-the-badge&logo=eslint">
+<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-764ABC?style=for-the-badge&logo=heroku&logoColor=white" />
  
  ### Чтобы я хотел изучить  в будущем:
 ![MobX](https://img.shields.io/badge/-MobX-turquoise?style=for-the-badge)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-green?style=for-the-badge)
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
-<img alt="bcrypt" src="https://img.shields.io/badge/bcrypt-green?style=for-the-badge&logo">
-<img alt="Mongoose" src="https://img.shields.io/badge/mongoose-green?style=for-the-badge&logo=mongoose">
-<img alt="eslint" src="https://img.shields.io/badge/eslint-blue?style=for-the-badge&logo=eslint">
-<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-764ABC?style=for-the-badge&logo=heroku&logoColor=white" />
+<!-- <img alt="bcrypt" src="https://img.shields.io/badge/bcrypt-green?style=for-the-badge&logo"> -->
+<!-- <img alt="Mongoose" src="https://img.shields.io/badge/mongoose-green?style=for-the-badge&logo=mongoose"> -->
+
 
 
 #
