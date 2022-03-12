@@ -25,6 +25,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-101012?style=for-the-badge&logo=GitHub&logoColor=fff)
 ![BEM](https://img.shields.io/badge/-BEM-008275?style=for-the-badge&logo=bem&logoColor=000)
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-grey?style=for-the-badge&logo=Prettier&logoColor=orange" />
+![jsonwebtoken](https://img.shields.io/badge/-jsonwebtoken-red?style=for-the-badge)
 
 ![Figma](https://img.shields.io/badge/-Figma-0d8200?style=for-the-badge&logo=Figma&logoColor=fff)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-011161?style=for-the-badge&logo=AdobePhotoshop&logoColor=fff)
@@ -55,7 +56,7 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/brauzer06)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)]()
 [![Mail](https://img.shields.io/badge/-Mail-090909?style=for-the-badge&logo=Mail&logoColor=4F7DB3)](https://e.mail.ru/cgi-bin/sentmsg?To=meda.oziev@mail.ru&from=otvet)
-![jsonwebtoken](https://img.shields.io/badge/-jsonwebtoken-red?style=for-the-badge)
+
 
 
 <!-- [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/alexeyshpavda)
