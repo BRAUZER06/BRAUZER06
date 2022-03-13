@@ -33,7 +33,7 @@
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-3f00ab?style=for-the-badge&logo=Bootstrap&logoColor=fff)
 ![material ui](https://img.shields.io/badge/-material_ui-4260f5?style=for-the-badge&logo=materialui&logoColor=fff)
-![Webpack](https://img.shields.io/badge/-Webpack-blue?style=for-the-badge)
+<!-- ![Webpack](https://img.shields.io/badge/-Webpack-blue?style=for-the-badge) -->
 ![](https://img.shields.io/badge/styled_components%20-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white)
 ![jsonwebtoken](https://img.shields.io/badge/-jsonwebtoken-red?style=for-the-badge)
 <img alt="express" src="https://img.shields.io/badge/express-green?style=for-the-badge&logo=express">
