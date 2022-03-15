@@ -35,7 +35,7 @@
 ![material ui](https://img.shields.io/badge/-material_ui-4260f5?style=for-the-badge&logo=materialui&logoColor=fff)
 <!-- ![Webpack](https://img.shields.io/badge/-Webpack-blue?style=for-the-badge) -->
 ![](https://img.shields.io/badge/styled_components%20-DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white)
-![jsonwebtoken](https://img.shields.io/badge/-jsonwebtoken-red?style=for-the-badge)
+
 <img alt="express" src="https://img.shields.io/badge/express-green?style=for-the-badge&logo=express">
  <img alt="Mongo-DB" src="https://img.shields.io/badge/-Mongo_DB-red?style=for-the-badge&logo=MongoDB&logoColor=black" />
  <img alt="eslint" src="https://img.shields.io/badge/eslint-blue?style=for-the-badge&logo=eslint">
