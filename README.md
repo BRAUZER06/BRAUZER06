@@ -1,6 +1,6 @@
 [![Header](https://github.com/BRAUZER06/BRAUZER06/blob/main/assets/gandalf-sax-guy.gif)](https://t.me/ING_6)
 
-## I am a Frontend developer, I am 19 years old, I live in Ingushetia
+<!-- ## I am a Frontend developer, I am 19 years old, I live in Ingushetia -->
 
 #
 
