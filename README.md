@@ -22,13 +22,14 @@
 
 - Тестовый проект Reatc/TS [Код](https://github.com/BRAUZER06/Funny_React_Project) | [Demo](https://brauzer06.github.io/Funny_React_Project/)
 
-[Много верстки](ttps://brauzer06.github.io/CAR__summary_1/)
 
-[Очень](https://brauzer06.github.io/Hazz_summary_2/)
+[Много верстки](https://brauzer06.github.io/CAR__summary_1/)
 
-[Много](https://brauzer06.github.io/web95.WORK_summary_3/)
+[очень](https://brauzer06.github.io/Hazz_summary_2/)
 
-[Жалко не](https://brauzer06.github.io/Web-Developer_summary_4/)
+[много](https://brauzer06.github.io/web95.WORK_summary_3/)
+
+[жалко не](https://brauzer06.github.io/Web-Developer_summary_4/)
 
 [во всех](https://brauzer06.github.io/AXIT_summary_5/)
 
