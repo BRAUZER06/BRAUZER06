@@ -108,8 +108,8 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/alexeyshpavda) -->
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brauzer06&layout=compact)](https://github.com/anuraghazra/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brauzer06&show_icons=true&hide=issues,contribs&theme=Default)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brauzer06&show_icons=true&hide=issues,contribs&theme=Default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brauzer06&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
