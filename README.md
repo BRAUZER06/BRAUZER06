@@ -109,6 +109,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brauzer06&show_icons=true&hide=issues,contribs&theme=Default)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brauzer06&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
