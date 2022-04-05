@@ -4,6 +4,24 @@
 ## I am a Frontend developer
 #
 
+- 'Блог' React/Redux/Node.js/MongoDB [Код](https://github.com/BRAUZER06/Thisis_v2__react_project) | [Demo] Скоро
+
+- Поиск пользователя GitHub React/Redux [Код](https://github.com/BRAUZER06/Git_UserSearch_project) | [Demo](https://brauzer06.github.io/Git_UserSearch_project/)
+
+- Сайт с Фильмами React/Redux [Код](https://github.com/BRAUZER06/React_Move) | [Demo](https://brauzer06.github.io/React_Move/)
+
+- Тестовый проект для мобилок [Код](https://github.com/BRAUZER06/funny_project) | [Demo](https://brauzer06.github.io/funny_project/)
+
+- Магазин Кроссовок React [Код](https://github.com/BRAUZER06/Sneakers-) | [Demo] Скоро
+
+- Тудушка React/Redux [Код](https://github.com/BRAUZER06/ARCH_TODO_REACT_V2) | [Demo](https://brauzer06.github.io/ARCH_TODO_REACT_V2/)
+
+- Тестовый проект 'Pizza'[Код](https://github.com/BRAUZER06/Archi_React_Pizza) | [Demo] Скоро
+
+- Легкий Сайт с Фильмами React (https://github.com/BRAUZER06/React_Search_Films) | [Demo](https://brauzer06.github.io/React_Search_Films/)
+
+- Тестовый проект Reatc/TS [Код](https://github.com/BRAUZER06/Funny_React_Project) | [Demo](https://brauzer06.github.io/Funny_React_Project/)
+
 
 ### Мои навыки:
 
@@ -72,9 +90,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brauzer06&show_icons=true&theme=highcontrast) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brauzer06&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brauzer06&show_icons=true&theme=highcontrast) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brauzer06&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
