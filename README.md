@@ -16,7 +16,7 @@
 
 - Тудушка React/Redux [Код](https://github.com/BRAUZER06/ARCH_TODO_REACT_V2) | [Demo](https://brauzer06.github.io/ARCH_TODO_REACT_V2/)
 
-- Тестовый проект 'Pizza'[Код](https://github.com/BRAUZER06/Archi_React_Pizza) | [Demo] Скоро
+- Тестовый проект 'Pizza' [Код](https://github.com/BRAUZER06/Archi_React_Pizza) | [Demo] Скоро
 
 - Легкий Сайт с Фильмами React [Код](https://github.com/BRAUZER06/React_Search_Films) | [Demo](https://brauzer06.github.io/React_Search_Films/)
 
@@ -109,7 +109,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brauzer06&show_icons=true&theme=highcontrast) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brauzer06&show_icons=true&hide=issues,contribs&theme=Default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brauzer06&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
