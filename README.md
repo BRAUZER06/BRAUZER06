@@ -35,25 +35,7 @@
 - Верстка [Demo](https://brauzer06.github.io/icrowdme_summary_8/) | [Код](https://github.com/BRAUZER06/icrowdme_summary_8)
 - Верстка [Demo](https://brauzer06.github.io/Funny_project_summary_9/) | [Код](https://github.com/BRAUZER06/Funny_project_summary_9)
 
-[Много верстки](https://brauzer06.github.io/CAR__summary_1/)
 
-[очень](https://brauzer06.github.io/Hazz_summary_2/)
-
-[много](https://brauzer06.github.io/web95.WORK_summary_3/)
-
-[жалко не](https://brauzer06.github.io/Web-Developer_summary_4/)
-
-[во всех](https://brauzer06.github.io/AXIT_summary_5/)
-
-[присуствует](https://brauzer06.github.io/Project_store/)
-
-[моб адаптация](https://brauzer06.github.io/medicall_summary_7/)
-
-[но ничего](https://brauzer06.github.io/icrowdme_summary_8/)
-
-[скоро исправим](https://brauzer06.github.io/Funny_project_summary_9/)
-
-[p.s верстки еще много](https://github.com/BRAUZER06/ZAOITT_summary__6)
 
 ### Мои навыки:
 
