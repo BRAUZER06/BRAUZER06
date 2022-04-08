@@ -23,6 +23,18 @@
 - Тестовый проект Reatc/TS [Код](https://github.com/BRAUZER06/Funny_React_Project) | [Demo](https://brauzer06.github.io/Funny_React_Project/)
 
 
+Верстка:
+- Сайт каршеринг [Demo](https://brauzer06.github.io/CAR__summary_1/) | [Код](https://github.com/BRAUZER06/CAR__summary_1)
+- Сайт с одеждой [Demo](https://brauzer06.github.io/Hazz_summary_2/) | [Код](https://github.com/BRAUZER06/Hazz_summary_2)
+- Техническое задание [Demo](https://brauzer06.github.io/web95.WORK_summary_3/) | [Код](https://github.com/BRAUZER06/web95.WORK_summary_3)
+- Верстка ТЗ [Demo](https://brauzer06.github.io/Web-Developer_summary_4/) | [Код](https://github.com/BRAUZER06/Web-Developer_summary_4)
+- Верстка [Demo](https://brauzer06.github.io/AXIT_summary_5/) | [Код](https://github.com/BRAUZER06/AXIT_summary_5)
+- Магазин одежды [Demo](https://brauzer06.github.io/Project_store/) | [Код](https://github.com/BRAUZER06/Project_store)
+- Сайт ZAOITT [Demo](https://brauzer06.github.io/ZAOITT_summary__6/) | [Код](https://github.com/BRAUZER06/ZAOITT_summary__6)
+- Сайт больницы [Demo](https://brauzer06.github.io/medicall_summary_7/) | [Код](https://github.com/BRAUZER06/medicall_summary_7)
+- Верстка [Demo](https://brauzer06.github.io/icrowdme_summary_8/) | [Код](https://github.com/BRAUZER06/icrowdme_summary_8)
+- Верстка [Demo](https://brauzer06.github.io/Funny_project_summary_9/) | [Код](https://github.com/BRAUZER06/Funny_project_summary_9)
+
 [Много верстки](https://brauzer06.github.io/CAR__summary_1/)
 
 [очень](https://brauzer06.github.io/Hazz_summary_2/)
