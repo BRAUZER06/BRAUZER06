@@ -4,45 +4,45 @@
 ## I am a Frontend developer
 #
 
-- 'Блог' React/Redux/Node.js/MongoDB [Код](https://github.com/BRAUZER06/Thisis_v2__react_project) | [Demo] Скоро
+- [Код](https://github.com/BRAUZER06/Thisis_v2__react_project) | [Скоро](https://github.com/BRAUZER06/Thisis_v2__react_project)  'Блог' React/Redux/Node.js/MongoDB 
 
-- Магазин одежды  [Код](https://github.com/BRAUZER06/Project_store) | [Demo](https://brauzer06.github.io/Project_store/)
+- [Код](https://github.com/BRAUZER06/Project_store) | [Demo](https://brauzer06.github.io/Project_store/) Магазин одежды  
 
-- Конвертер валют [Код](https://github.com/BRAUZER06/converter_js) | [Demo](https://brauzer06.github.io/converter_js/)
+- [Код](https://github.com/BRAUZER06/converter_js) | [Demo](https://brauzer06.github.io/converter_js/) Конвертер валют 
 
-- Поиск пользователя GitHub React/Redux [Код](https://github.com/BRAUZER06/Git_UserSearch_project) | [Demo](https://brauzer06.github.io/Git_UserSearch_project/)
+- [Код](https://github.com/BRAUZER06/Git_UserSearch_project) | [Demo](https://brauzer06.github.io/Git_UserSearch_project/) Поиск пользователя GitHub React/Redux 
 
-- Сайт с Фильмами React/Redux [Код](https://github.com/BRAUZER06/React_Move) | [Demo](https://brauzer06.github.io/React_Move/)
+-  [Код](https://github.com/BRAUZER06/React_Move) | [Demo](https://brauzer06.github.io/React_Move/) Сайт с Фильмами React/Redux
 
-- Тестовый проект для мобилок [Код](https://github.com/BRAUZER06/funny_project) | [Demo](https://brauzer06.github.io/funny_project/)
+- [Код](https://github.com/BRAUZER06/funny_project) | [Demo](https://brauzer06.github.io/funny_project/) Тестовый проект для мобилок 
 
-- Магазин Кроссовок React [Код](https://github.com/BRAUZER06/Sneakers-) | [Demo] Скоро
+- [Код](https://github.com/BRAUZER06/Sneakers-) | [Скоро](https://github.com/BRAUZER06/Sneakers-) Магазин Кроссовок React 
 
-- Тудушка React/Redux [Код](https://github.com/BRAUZER06/ARCH_TODO_REACT_V2) | [Demo](https://brauzer06.github.io/ARCH_TODO_REACT_V2/)
+- [Код](https://github.com/BRAUZER06/ARCH_TODO_REACT_V2) | [Demo](https://brauzer06.github.io/ARCH_TODO_REACT_V2/) Тудушка React/Redux 
 
-- Тестовый проект 'Pizza' [Код](https://github.com/BRAUZER06/Archi_React_Pizza) | [Demo] Скоро
+- [Код](https://github.com/BRAUZER06/Archi_React_Pizza) | [Скоро](https://github.com/BRAUZER06/Archi_React_Pizza) Тестовый проект 'Pizza' 
 
-- Легкий Сайт с Фильмами React [Код](https://github.com/BRAUZER06/React_Search_Films) | [Demo](https://brauzer06.github.io/React_Search_Films/)
+- [Код](https://github.com/BRAUZER06/React_Search_Films) | [Demo](https://brauzer06.github.io/React_Search_Films/) Легкий Сайт с Фильмами React 
 
-- Тестовый проект Reatc/TS [Код](https://github.com/BRAUZER06/Funny_React_Project) | [Demo](https://brauzer06.github.io/Funny_React_Project/)
+- [Код](https://github.com/BRAUZER06/Funny_React_Project) | [Demo](https://brauzer06.github.io/Funny_React_Project/) Тестовый проект Reatc/TS 
 
-- Сайт каршеринг  | [Код](https://github.com/BRAUZER06/CAR__summary_1) | [Demo](https://brauzer06.github.io/CAR__summary_1/)
+- [Код](https://github.com/BRAUZER06/CAR__summary_1) | [Demo](https://brauzer06.github.io/CAR__summary_1/) Сайт каршеринг  
 
-- Сайт с одеждой | [Код](https://github.com/BRAUZER06/Hazz_summary_2) | [Demo](https://brauzer06.github.io/Hazz_summary_2/) 
+- [Код](https://github.com/BRAUZER06/Hazz_summary_2) | [Demo](https://brauzer06.github.io/Hazz_summary_2/)  Сайт с одеждой 
 
-- Техническое задание  | [Код](https://github.com/BRAUZER06/web95.WORK_summary_3) | [Demo](https://brauzer06.github.io/web95.WORK_summary_3/)
+- [Код](https://github.com/BRAUZER06/web95.WORK_summary_3) | [Demo](https://brauzer06.github.io/web95.WORK_summary_3/) Техническое задание  
 
-- Верстка ТЗ  | [Код](https://github.com/BRAUZER06/Web-Developer_summary_4) | [Demo](https://brauzer06.github.io/Web-Developer_summary_4/)
+- [Код](https://github.com/BRAUZER06/Web-Developer_summary_4) | [Demo](https://brauzer06.github.io/Web-Developer_summary_4/) Верстка ТЗ  
 
-- Верстка | [Код](https://github.com/BRAUZER06/AXIT_summary_5) | [Demo](https://brauzer06.github.io/AXIT_summary_5/) 
+- [Код](https://github.com/BRAUZER06/AXIT_summary_5) | [Demo](https://brauzer06.github.io/AXIT_summary_5/)  Верстка 
 
-- Сайт ZAOITT  | [Код](https://github.com/BRAUZER06/ZAOITT_summary__6) | [Demo](https://brauzer06.github.io/ZAOITT_summary__6/)
+- [Код](https://github.com/BRAUZER06/ZAOITT_summary__6) | [Demo](https://brauzer06.github.io/ZAOITT_summary__6/) Сайт ZAOITT  
 
-- Сайт больницы  | [Код](https://github.com/BRAUZER06/medicall_summary_7) | [Demo](https://brauzer06.github.io/medicall_summary_7/)
+- [Код](https://github.com/BRAUZER06/medicall_summary_7) | [Demo](https://brauzer06.github.io/medicall_summary_7/) Сайт больницы  
 
-- Верстка  | [Код](https://github.com/BRAUZER06/icrowdme_summary_8) | [Demo](https://brauzer06.github.io/icrowdme_summary_8/)
+- [Код](https://github.com/BRAUZER06/icrowdme_summary_8) | [Demo](https://brauzer06.github.io/icrowdme_summary_8/) Верстка  
 
-- Верстка | [Код](https://github.com/BRAUZER06/Funny_project_summary_9)| [Demo](https://brauzer06.github.io/Funny_project_summary_9/) 
+- [Код](https://github.com/BRAUZER06/Funny_project_summary_9)| [Demo](https://brauzer06.github.io/Funny_project_summary_9/)  Верстка 
 
 
 
