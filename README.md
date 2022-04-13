@@ -6,7 +6,7 @@
 
 - 'Блог' React/Redux/Node.js/MongoDB [Код](https://github.com/BRAUZER06/Thisis_v2__react_project) | [Demo] Скоро
 
-- Сайт для моды [Код](https://github.com/BRAUZER06/Project_store) | [Demo](brauzer06.github.io/react_project_store/)
+- Магазин одежды  [Код](https://github.com/BRAUZER06/Project_store) | [Demo](https://brauzer06.github.io/Project_store/)
 
 - Конвертер валют [Код](https://github.com/BRAUZER06/converter_js) | [Demo](https://brauzer06.github.io/converter_js/)
 
@@ -33,7 +33,6 @@
 - Техническое задание  | [Код](https://github.com/BRAUZER06/web95.WORK_summary_3) | [Demo](https://brauzer06.github.io/web95.WORK_summary_3/)
 - Верстка ТЗ  | [Код](https://github.com/BRAUZER06/Web-Developer_summary_4) | [Demo](https://brauzer06.github.io/Web-Developer_summary_4/)
 - Верстка | [Код](https://github.com/BRAUZER06/AXIT_summary_5) | [Demo](https://brauzer06.github.io/AXIT_summary_5/) 
-- Магазин одежды  | [Код](https://github.com/BRAUZER06/Project_store) | [Demo](https://brauzer06.github.io/Project_store/)
 - Сайт ZAOITT  | [Код](https://github.com/BRAUZER06/ZAOITT_summary__6) | [Demo](https://brauzer06.github.io/ZAOITT_summary__6/)
 - Сайт больницы  | [Код](https://github.com/BRAUZER06/medicall_summary_7) | [Demo](https://brauzer06.github.io/medicall_summary_7/)
 - Верстка  | [Код](https://github.com/BRAUZER06/icrowdme_summary_8) | [Demo](https://brauzer06.github.io/icrowdme_summary_8/)
