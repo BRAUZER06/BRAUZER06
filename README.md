@@ -4,7 +4,7 @@
 ## I am a Frontend developer
 #
 
-- [Код](https://github.com/BRAUZER06/Thisis_v2__react_project) | [Скоро](https://github.com/BRAUZER06/Thisis_v2__react_project)  'Блог' React/Redux/Node.js/MongoDB 
+- [Код](https://github.com/BRAUZER06/Thisis_v2__react_project) | [Скоро](https://thises.herokuapp.com)  'Блог' React/Redux/Node.js/MongoDB 
 
 - [Код](https://github.com/BRAUZER06/Project_store) | [Demo](https://brauzer06.github.io/Project_store/) Магазин одежды  
 
