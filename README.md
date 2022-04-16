@@ -4,6 +4,8 @@
 ## I am a Frontend developer
 #
 
+-  [Код](https://github.com/BRAUZER06/React_Move) | [Demo](https://brauzer06.github.io/React_Move/) Сайт с Фильмами React/Redux
+
 - [Код](https://github.com/BRAUZER06/Thisis_v2__react_project) | [Скоро](https://thises.herokuapp.com)  'Блог' React/Redux/Node.js/MongoDB 
 
 - [Код](https://github.com/BRAUZER06/Project_store) | [Demo](https://brauzer06.github.io/Project_store/) Магазин одежды  
@@ -11,8 +13,6 @@
 - [Код](https://github.com/BRAUZER06/converter_js) | [Demo](https://brauzer06.github.io/converter_js/) Конвертер валют 
 
 - [Код](https://github.com/BRAUZER06/Git_UserSearch_project) | [Demo](https://brauzer06.github.io/Git_UserSearch_project/) Поиск пользователя GitHub React/Redux 
-
--  [Код](https://github.com/BRAUZER06/React_Move) | [Demo](https://brauzer06.github.io/React_Move/) Сайт с Фильмами React/Redux
 
 - [Код](https://github.com/BRAUZER06/funny_project) | [Demo](https://brauzer06.github.io/funny_project/) Тестовый проект для мобилок 
 
