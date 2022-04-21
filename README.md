@@ -32,8 +32,8 @@
 
 - [Код](https://github.com/BRAUZER06/web95.WORK_summary_3) | [Demo](https://brauzer06.github.io/web95.WORK_summary_3/) Техническое задание  
 
-- [Код](https://github.com/BRAUZER06/Web-Developer_summary_4) | [Demo](https://brauzer06.github.io/Web-Developer_summary_4/) Верстка ТЗ  
-
+<!-- - [Код](https://github.com/BRAUZER06/Web-Developer_summary_4) | [Demo](https://brauzer06.github.io/Web-Developer_summary_4/) Верстка ТЗ  
+ -->
 <!-- - [Код](https://github.com/BRAUZER06/AXIT_summary_5) | [Demo](https://brauzer06.github.io/AXIT_summary_5/)  Верстка 
  -->
 <!-- - [Код](https://github.com/BRAUZER06/ZAOITT_summary__6) | [Demo](https://brauzer06.github.io/ZAOITT_summary__6/) Сайт ZAOITT  
