@@ -45,6 +45,8 @@
 <!-- - [Код](https://github.com/BRAUZER06/Funny_project_summary_9)| [Demo](https://brauzer06.github.io/Funny_project_summary_9/)  Верстка 
  -->
 
+<div align="center">
+
 
 ### Мои навыки:
 
@@ -95,7 +97,7 @@
 <!-- <img alt="Mongoose" src="https://img.shields.io/badge/mongoose-green?style=for-the-badge&logo=mongoose"> -->
 
 
-<div align="center">
+
 
 #
 ## Связаться
