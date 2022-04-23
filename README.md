@@ -95,7 +95,7 @@
 <!-- <img alt="Mongoose" src="https://img.shields.io/badge/mongoose-green?style=for-the-badge&logo=mongoose"> -->
 
 
-
+<div align="center">
 
 #
 ## Связаться
@@ -111,7 +111,7 @@
 <!-- [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/alexeyshpavda)
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/alexeyshpavda) -->
 
-<div align="center">
+
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brauzer06&show_icons=true&hide=issues,contribs&theme=Default)
 
