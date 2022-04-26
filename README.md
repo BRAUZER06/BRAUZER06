@@ -19,6 +19,8 @@
 
 - [Код](https://github.com/BRAUZER06/Git_UserSearch_project) | [Demo](https://brauzer06.github.io/Git_UserSearch_project/) Поиск пользователя GitHub React/Redux 
 
+- [Код](https://github.com/BRAUZER06/technical_task_2) | [Скоро](https://brauzer06.github.io/technical_task_2/) React/Redux/TS/Formik/Yup/Адаптив
+
 <!-- - [Код](https://github.com/BRAUZER06/funny_project) | [Demo](https://brauzer06.github.io/funny_project/) Тестовый проект для мобилок 
  -->
 - [Код](https://github.com/BRAUZER06/Sneakers-) | [Скоро](https://github.com/BRAUZER06/Sneakers-) Магазин Кроссовок React 
