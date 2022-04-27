@@ -19,15 +19,15 @@
 
 - [Код](https://github.com/BRAUZER06/Git_UserSearch_project) | [Demo](https://brauzer06.github.io/Git_UserSearch_project/) Поиск пользователя GitHub React/Redux 
 
-- [Код](https://github.com/BRAUZER06/technical_task_2) | [Скоро](https://brauzer06.github.io/technical_task_2/) React/Redux/TS/Formik/Yup/Адаптив
+- [Код](https://github.com/BRAUZER06/technical_task_2) | [Нужно Задеплоить](https://brauzer06.github.io/technical_task_2/) React/Redux/TS/Formik/Yup/Адаптив
 
 <!-- - [Код](https://github.com/BRAUZER06/funny_project) | [Demo](https://brauzer06.github.io/funny_project/) Тестовый проект для мобилок 
  -->
-- [Код](https://github.com/BRAUZER06/Sneakers-) | [Скоро](https://github.com/BRAUZER06/Sneakers-) Магазин Кроссовок React 
+- [Код](https://github.com/BRAUZER06/Sneakers-) | [Нужно Задеплоить](https://github.com/BRAUZER06/Sneakers-) Магазин Кроссовок React 
 
 - [Код](https://github.com/BRAUZER06/ARCH_TODO_REACT_V2) | [Demo](https://brauzer06.github.io/ARCH_TODO_REACT_V2/) Тудушка React/Redux 
 
-- [Код](https://github.com/BRAUZER06/Archi_React_Pizza) | [Скоро](https://github.com/BRAUZER06/Archi_React_Pizza) Тестовый проект 'Pizza' 
+- [Код](https://github.com/BRAUZER06/Archi_React_Pizza) | [Нужно Задеплоить](https://github.com/BRAUZER06/Archi_React_Pizza) Тестовый проект 'Pizza' 
 
 <!-- - [Код](https://github.com/BRAUZER06/React_Search_Films) | [Demo](https://brauzer06.github.io/React_Search_Films/) Легкий Сайт с Фильмами React  -->
 
