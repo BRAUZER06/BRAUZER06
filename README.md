@@ -56,7 +56,7 @@
 
 
 ### Мои навыки:
-
+ 
 
 ![React](https://img.shields.io/badge/-React-00BFFF?style=for-the-badge&logo=react&logoColor=000)
 ![Redux](https://img.shields.io/badge/-Redux-5A009D?style=for-the-badge&logo=redux&logoColor=000)
