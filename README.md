@@ -9,6 +9,9 @@
 ## I am a Frontend developer
 #
 
+## Добрый Team lead, у меня почти нет хороших проектов, и хорошие проекты, они еще в разработке, так что не оценивай мои качества по репам :)
+#
+
 -  [Код](https://github.com/BRAUZER06/React_Move) | [Demo](https://brauzer06.github.io/React_Move/) Сайт с Фильмами React/Redux
 
 <!-- - [Код](https://github.com/BRAUZER06/Thisis_v2__react_project) | [Скоро](https://thises.herokuapp.com)  'Блог' React/Redux/Node.js/MongoDB 
