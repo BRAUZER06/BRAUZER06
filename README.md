@@ -6,7 +6,6 @@
 
 <!-- ## I am a Frontend developer, I am 19 years old, I live in Ingushetia -->
 
-## I am a Frontend developer
 
 
 ## Добрый Team lead, я знаю ты любишь смотреть на код, но на этот лучше не смотри )
