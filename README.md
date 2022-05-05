@@ -9,7 +9,7 @@
 ## I am a Frontend developer
 #
 
-## Добрый Team lead, у меня почти нет хороших проектов, и хорошие проекты, они еще в разработке, так что не оценивай мои качества по репам :)
+## Добрый Team lead, я знаю ты любишь смотреть на код, но на этот лучше не смотри )
 #
 
 -  [Код](https://github.com/BRAUZER06/React_Move) | [Demo](https://brauzer06.github.io/React_Move/) Сайт с Фильмами React/Redux
