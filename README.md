@@ -8,57 +8,57 @@
 
 
 
-## Добрый Team lead, я знаю ты любишь смотреть на код, но на этот лучше не смотри )
+## Good Team lead, I know you like to look at the code, but don't look at this one)
 
 
--  [Код](https://github.com/BRAUZER06/React_Move) | [Demo](https://brauzer06.github.io/React_Move/) Сайт с Фильмами React/Redux
+- [Сode](https://github.com/BRAUZER06/React_Move) | [Demo](https://brauzer06.github.io/React_Move/) React/Redux Movies Site
 
-<!-- - [Код](https://github.com/BRAUZER06/Thisis_v2__react_project) | [Скоро](https://thises.herokuapp.com)  'Блог' React/Redux/Node.js/MongoDB 
+<!-- - [Сode](https://github.com/BRAUZER06/Thisis_v2__react_project) | [Скоро](https://thises.herokuapp.com)  'Blog' React/Redux/Node.js/MongoDB 
  -->
-- [Код](https://github.com/BRAUZER06/Project_store) | [Demo](https://brauzer06.github.io/Project_store/) Магазин одежды  
+- [Сode](https://github.com/BRAUZER06/Project_store) | [Demo](https://brauzer06.github.io/Project_store/) Clothing store 
 
-- [Код](https://github.com/BRAUZER06/converter_js) | [Demo](https://brauzer06.github.io/converter_js/) Конвертер валют 
+- [Сode](https://github.com/BRAUZER06/converter_js) | [Demo](https://brauzer06.github.io/converter_js/) Currency Converter
 
-- [Код](https://github.com/BRAUZER06/Git_UserSearch_project) | [Demo](https://brauzer06.github.io/Git_UserSearch_project/) Поиск пользователя GitHub React/Redux 
+- [Сode](https://github.com/BRAUZER06/Git_UserSearch_project) | [Demo](https://brauzer06.github.io/Git_UserSearch_project/) User search GitHub React/Redux 
 
-- [Код](https://github.com/BRAUZER06/technical_task_2) | [Нужно Задеплоить](https://brauzer06.github.io/technical_task_2/) React/Redux/TS/Formik/Yup/Адаптив
+- [Сode](https://github.com/BRAUZER06/technical_task_2) | [Need to deploy](https://brauzer06.github.io/technical_task_2/) React/Redux/TS/Formik/Yup/Adaptive
 
-<!-- - [Код](https://github.com/BRAUZER06/funny_project) | [Demo](https://brauzer06.github.io/funny_project/) Тестовый проект для мобилок 
+<!-- - [Сode](https://github.com/BRAUZER06/funny_project) | [Demo](https://brauzer06.github.io/funny_project/) Test project for mobile phones
  -->
-- [Код](https://github.com/BRAUZER06/Sneakers-) | [Нужно Задеплоить](https://github.com/BRAUZER06/Sneakers-) Магазин Кроссовок React 
+- [Сode](https://github.com/BRAUZER06/Sneakers-) | [Need to deploy](https://github.com/BRAUZER06/Sneakers-) React Sneaker Shop
 
-- [Код](https://github.com/BRAUZER06/ARCH_TODO_REACT_V2) | [Demo](https://brauzer06.github.io/ARCH_TODO_REACT_V2/) Тудушка React/Redux 
+- [Сode](https://github.com/BRAUZER06/ARCH_TODO_REACT_V2) | [Demo](https://brauzer06.github.io/ARCH_TODO_REACT_V2/) Todo React/Redux 
 
-- [Код](https://github.com/BRAUZER06/Archi_React_Pizza) | [Нужно Задеплоить](https://github.com/BRAUZER06/Archi_React_Pizza) Тестовый проект 'Pizza' 
+- [Сode](https://github.com/BRAUZER06/Archi_React_Pizza) | [Need to deploy](https://github.com/BRAUZER06/Archi_React_Pizza) Test project 'Pizza' 
 
-<!-- - [Код](https://github.com/BRAUZER06/React_Search_Films) | [Demo](https://brauzer06.github.io/React_Search_Films/) Легкий Сайт с Фильмами React  -->
+<!-- - [Сode](https://github.com/BRAUZER06/React_Search_Films) | [Demo](https://brauzer06.github.io/React_Search_Films/) Light Movie Website React  -->
 
-<!-- - [Код](https://github.com/BRAUZER06/Funny_React_Project) | [Demo](https://brauzer06.github.io/Funny_React_Project/) Тестовый проект React/TS 
+<!-- - [Сode](https://github.com/BRAUZER06/Funny_React_Project) | [Demo](https://brauzer06.github.io/Funny_React_Project/) Test project React/TS 
  -->
-<!-- - [Код](https://github.com/BRAUZER06/CAR__summary_1) | [Demo](https://brauzer06.github.io/CAR__summary_1/) Сайт каршеринг  
+<!-- - [Сode](https://github.com/BRAUZER06/CAR__summary_1) | [Demo](https://brauzer06.github.io/CAR__summary_1/) Website carsharing 
  -->
-- [Код](https://github.com/BRAUZER06/Hazz_summary_2) | [Demo](https://brauzer06.github.io/Hazz_summary_2/)  Сайт с одеждой 
+- [Сode](https://github.com/BRAUZER06/Hazz_summary_2) | [Demo](https://brauzer06.github.io/Hazz_summary_2/)  Website for clothes
 
-- [Код](https://github.com/BRAUZER06/web95.WORK_summary_3) | [Demo](https://brauzer06.github.io/web95.WORK_summary_3/) Техническое задание  
+- [Сode](https://github.com/BRAUZER06/web95.WORK_summary_3) | [Demo](https://brauzer06.github.io/web95.WORK_summary_3/) Technical task
 
-<!-- - [Код](https://github.com/BRAUZER06/Web-Developer_summary_4) | [Demo](https://brauzer06.github.io/Web-Developer_summary_4/) Верстка ТЗ  
+<!-- - [Сode](https://github.com/BRAUZER06/Web-Developer_summary_4) | [Demo](https://brauzer06.github.io/Web-Developer_summary_4/) Layout specification  
  -->
-<!-- - [Код](https://github.com/BRAUZER06/AXIT_summary_5) | [Demo](https://brauzer06.github.io/AXIT_summary_5/)  Верстка 
+<!-- - [Сode](https://github.com/BRAUZER06/AXIT_summary_5) | [Demo](https://brauzer06.github.io/AXIT_summary_5/)  Layout 
  -->
-<!-- - [Код](https://github.com/BRAUZER06/ZAOITT_summary__6) | [Demo](https://brauzer06.github.io/ZAOITT_summary__6/) Сайт ZAOITT  
+<!-- - [Сode](https://github.com/BRAUZER06/ZAOITT_summary__6) | [Demo](https://brauzer06.github.io/ZAOITT_summary__6/) Site ZAOITT  
  -->
-<!-- - [Код](https://github.com/BRAUZER06/medicall_summary_7) | [Demo](https://brauzer06.github.io/medicall_summary_7/) Сайт больницы  
+<!-- - [Сode](https://github.com/BRAUZER06/medicall_summary_7) | [Demo](https://brauzer06.github.io/medicall_summary_7/) Site hospitals  
  -->
-<!-- - [Код](https://github.com/BRAUZER06/icrowdme_summary_8) | [Demo](https://brauzer06.github.io/icrowdme_summary_8/) Верстка  
+<!-- - [Сode](https://github.com/BRAUZER06/icrowdme_summary_8) | [Demo](https://brauzer06.github.io/icrowdme_summary_8/) Layout  
  -->
-<!-- - [Код](https://github.com/BRAUZER06/Funny_project_summary_9)| [Demo](https://brauzer06.github.io/Funny_project_summary_9/)  Верстка 
+<!-- - [Сode](https://github.com/BRAUZER06/Funny_project_summary_9)| [Demo](https://brauzer06.github.io/Funny_project_summary_9/)  Layout 
  -->
 
-(около 20+ проектов)
+(in total 20+ projects)
 <div align="center">
 
 
-### Мои навыки:
+### My skills:
  
 
 ![React](https://img.shields.io/badge/-React-00BFFF?style=for-the-badge&logo=react&logoColor=000)
@@ -81,7 +81,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-0d8200?style=for-the-badge&logo=Figma&logoColor=fff)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-011161?style=for-the-badge&logo=AdobePhotoshop&logoColor=fff)
 
-### Пользовался/использовал
+### Used/Know
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-3f00ab?style=for-the-badge&logo=Bootstrap&logoColor=fff)
 ![material ui](https://img.shields.io/badge/-material_ui-4260f5?style=for-the-badge&logo=materialui&logoColor=fff)
@@ -98,7 +98,7 @@
 <img alt="express" src="https://img.shields.io/badge/express-green?style=for-the-badge&logo=express">
  <img alt="eslint" src="https://img.shields.io/badge/eslint-blue?style=for-the-badge&logo=eslint">
  
- ### Чтобы я хотел изучить  в будущем:
+ ### That I would like to study in the future:
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=for-the-badge)
  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
 ![MobX](https://img.shields.io/badge/-MobX-turquoise?style=for-the-badge)
@@ -110,12 +110,12 @@
 
 
 #
-## Связаться
+## Contact
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/oziev-murtaz-7b7b71225/)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ING_6)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](www.instagram.com/gelathoev)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/brauzer06)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)]()
 [![Mail](https://img.shields.io/badge/-Mail-090909?style=for-the-badge&logo=Mail&logoColor=4F7DB3)](https://e.mail.ru/cgi-bin/sentmsg?To=meda.oziev@mail.ru&from=otvet)
 
 
