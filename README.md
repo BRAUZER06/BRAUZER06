@@ -27,7 +27,7 @@
  -->
 - [Сode](https://github.com/BRAUZER06/Sneakers-) | [Need to deploy](https://github.com/BRAUZER06/Sneakers-) React Sneaker Shop
 
-- [Сode](https://github.com/BRAUZER06/ARCH_TODO_REACT_V2) | [Demo](https://brauzer06.github.io/ARCH_TODO_REACT_V2/) Todo React/Redux 
+- [Сode](https://github.com/BRAUZER06/technical_task_5) | [Demo](https://brauzer06.github.io/technical_task_5/) Trello v2 React/Redux
 
 - [Сode](https://github.com/BRAUZER06/Archi_React_Pizza) | [Need to deploy](https://github.com/BRAUZER06/Archi_React_Pizza) Test project 'Pizza' 
 
