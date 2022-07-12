@@ -17,6 +17,8 @@
  -->
 - [Сode](https://github.com/BRAUZER06/Project_store) | [Demo](https://brauzer06.github.io/Project_store/) Clothing store 
 
+- [Сode](https://github.com/BRAUZER06/technical_task_5) | [Demo](https://brauzer06.github.io/technical_task_5/) Trello v2 React/Redux
+
 - [Сode](https://github.com/BRAUZER06/converter_js) | [Demo](https://brauzer06.github.io/converter_js/) Currency Converter
 
 - [Сode](https://github.com/BRAUZER06/Git_UserSearch_project) | [Demo](https://brauzer06.github.io/Git_UserSearch_project/) User search GitHub React/Redux 
@@ -26,8 +28,6 @@
 <!-- - [Сode](https://github.com/BRAUZER06/funny_project) | [Demo](https://brauzer06.github.io/funny_project/) Test project for mobile phones
  -->
 - [Сode](https://github.com/BRAUZER06/Sneakers-) | [Need to deploy](https://github.com/BRAUZER06/Sneakers-) React Sneaker Shop
-
-- [Сode](https://github.com/BRAUZER06/technical_task_5) | [Demo](https://brauzer06.github.io/technical_task_5/) Trello v2 React/Redux
 
 - [Сode](https://github.com/BRAUZER06/Archi_React_Pizza) | [Need to deploy](https://github.com/BRAUZER06/Archi_React_Pizza) Test project 'Pizza' 
 
