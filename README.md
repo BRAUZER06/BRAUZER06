@@ -41,10 +41,6 @@
  -->
 <!-- - [Сode](https://github.com/BRAUZER06/CAR__summary_1) | [Demo](https://brauzer06.github.io/CAR__summary_1/) Website carsharing 
  -->
-- [Сode](https://github.com/BRAUZER06/Hazz_summary_2) | [Demo](https://brauzer06.github.io/Hazz_summary_2/)  Website for clothes
-
-- [Сode](https://github.com/BRAUZER06/web95.WORK_summary_3) | [Demo](https://brauzer06.github.io/web95.WORK_summary_3/) Technical task
-
 <!-- - [Сode](https://github.com/BRAUZER06/Web-Developer_summary_4) | [Demo](https://brauzer06.github.io/Web-Developer_summary_4/) Layout specification  
  -->
 <!-- - [Сode](https://github.com/BRAUZER06/AXIT_summary_5) | [Demo](https://brauzer06.github.io/AXIT_summary_5/)  Layout 
