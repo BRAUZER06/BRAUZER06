@@ -25,6 +25,10 @@
 
 - [Сode](https://github.com/BRAUZER06/technical_task_2) | [Need to deploy](https://brauzer06.github.io/technical_task_2/) React/Redux/TS/Formik/Yup/Adaptive
 
+- [Сode](https://github.com/BRAUZER06/Hazz_summary_2) | [Demo](https://brauzer06.github.io/Hazz_summary_2/)  Website for clothes
+
+- [Сode](https://github.com/BRAUZER06/web95.WORK_summary_3) | [Demo](https://brauzer06.github.io/web95.WORK_summary_3/) Technical task
+
 <!-- - [Сode](https://github.com/BRAUZER06/funny_project) | [Demo](https://brauzer06.github.io/funny_project/) Test project for mobile phones
  -->
 - [Сode](https://github.com/BRAUZER06/Sneakers-) | [Need to deploy](https://github.com/BRAUZER06/Sneakers-) React Sneaker Shop
