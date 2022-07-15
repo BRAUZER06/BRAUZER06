@@ -67,12 +67,6 @@
 <img alt="Redux-Thunk" src="https://img.shields.io/badge/-Redux_Toolkit-black?style=for-the-badge&logo=Redux&logoColor=430098" />
 <img src="https://img.shields.io/badge/-NextJS-090909?style=for-the-badge&logo=NextJS&logoColor=white"/>
  
- <img src="https://img.shields.io/badge/-Next-JS-090909?style=for-the-badge&logo=Next-JS&logoColor=white"/>
- <img src="https://img.shields.io/badge/-Next_JS-090909?style=for-the-badge&logo=Next_JS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Next-Js-090909?style=for-the-badge&logo=Next-Js&logoColor=white"/>
- <img src="https://img.shields.io/badge/-Next_Js-090909?style=for-the-badge&logo=Next_Js&logoColor=white"/>
- 
- 
 <img src="https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=2f74c0"/>
 <img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=FFFF00"/>
 <img src="https://img.shields.io/badge/-ReactRouter-090909?style=for-the-badge&logo=ReactRouter&logoColor=read"/>
@@ -82,7 +76,7 @@
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Scss&color=000000&logo=Scss&logoColor=CC6699&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=000000&logo=CSS3&logoColor=1572B6&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=000000&logo=HTML5&logoColor=E34F26&label="/>
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Pug&color=000000&logo=Pug&logoColor=E34F26&label="/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Pug&color=000000&logo=Pug&logoColor=#eac8a0&label="/>
  
 <img src="https://img.shields.io/badge/-MaterialUI-090909?style=for-the-badge&logo=materialUI&logoColor=47C5FB"/>
 <img src="https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=aqua"/>
@@ -94,8 +88,8 @@
 <img src="https://img.shields.io/badge/-express-090909?style=for-the-badge&logo=express&logoColor=green"/>
 
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=ESLint&color=000000&logo=ESLint&logoColor=4B32C3&label="/>
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Prettier&color=000000&logo=Prettier&logoColor=F7B93E&label="/>
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=BEM&color=000000&logo=BEM&logoColor=F7B93E&label="/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Prettier&color=000000&logo=Prettier&logoColor=orange&label="/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=BEM&color=000000&logo=BEM&logoColor=008275&label="/>
  
  
 <img src="https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=f75e5e"/>
@@ -148,12 +142,9 @@
  
  ### That I would like to study in the future:
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=for-the-badge)
- <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
-![MobX](https://img.shields.io/badge/-MobX-turquoise?style=for-the-badge)
-<!-- ![Vue.js](https://img.shields.io/badge/-Vue.js-green?style=for-the-badge) -->
-<!-- <img alt="bcrypt" src="https://img.shields.io/badge/bcrypt-green?style=for-the-badge&logo"> -->
-<!-- <img alt="Mongoose" src="https://img.shields.io/badge/mongoose-green?style=for-the-badge&logo=mongoose"> -->
-
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js&logoColor=white" />
+![MobX](https://img.shields.io/badge/-MobX-black?style=for-the-badge)
+<img alt="Mongoose" src="https://img.shields.io/badge/mongoose-black?style=for-the-badge&logo=mongoose">
 
 
 
@@ -175,10 +166,10 @@
   <summary>⚙️ &nbsp; Statistics:</summary>
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=brauzer06&show_icons=true&theme=dark"/>
   <br />
+  <br />
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brauzer06&langs_count=8&layout=compact"/>
 </details>
 
 
 
-
-
+![CodeWars](https://www.codewars.com/users/AHMATOLOG/badges/large)
