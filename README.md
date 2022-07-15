@@ -67,6 +67,12 @@
 <img alt="Redux-Thunk" src="https://img.shields.io/badge/-Redux_Toolkit-black?style=for-the-badge&logo=Redux&logoColor=430098" />
 <img src="https://img.shields.io/badge/-NextJS-090909?style=for-the-badge&logo=NextJS&logoColor=white"/>
  
+ <img src="https://img.shields.io/badge/-Next-JS-090909?style=for-the-badge&logo=Next-JS&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-Next_JS-090909?style=for-the-badge&logo=Next_JS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Next-Js-090909?style=for-the-badge&logo=Next-Js&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-Next_Js-090909?style=for-the-badge&logo=Next_Js&logoColor=white"/>
+ 
+ 
 <img src="https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=2f74c0"/>
 <img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=FFFF00"/>
 <img src="https://img.shields.io/badge/-ReactRouter-090909?style=for-the-badge&logo=ReactRouter&logoColor=read"/>
@@ -89,9 +95,10 @@
 
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=ESLint&color=000000&logo=ESLint&logoColor=4B32C3&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Prettier&color=000000&logo=Prettier&logoColor=F7B93E&label="/>
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=BEM&color=000000&logo= BEM&logoColor=F7B93E&label="/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=BEM&color=000000&logo=BEM&logoColor=F7B93E&label="/>
  
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=000000&logo=Git&logoColor=#e84e32&label="/>
+ 
+<img src="https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=f75e5e"/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=000000&logo=GitHub&logoColor=FFFFFF&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHubPages&color=000000&logo=GitHub&logoColor=FFFFFF&label="/>
 
