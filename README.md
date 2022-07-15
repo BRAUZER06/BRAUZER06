@@ -53,7 +53,6 @@
  -->
 <!-- - [Сode](https://github.com/BRAUZER06/Funny_project_summary_9)| [Demo](https://brauzer06.github.io/Funny_project_summary_9/)  Layout 
  -->
-
 (in total 20+ projects)
 <div >
 
@@ -66,6 +65,10 @@
 <img alt="Redux-Thunk" src="https://img.shields.io/badge/-Redux_Thunk-black?style=for-the-badge&logo=Redux&logoColor=430098" />
 <img alt="Redux-Thunk" src="https://img.shields.io/badge/-Redux_Toolkit-black?style=for-the-badge&logo=Redux&logoColor=430098" />
 <img src="https://img.shields.io/badge/-NextJS-090909?style=for-the-badge&logo=NextJS&logoColor=white"/>
+ 
+ 
+ <img alt="" src="https://img.shields.io/badge/logo=Next.js&amp;labelColor=000000&amp;logoWidth=20">
+ 
  
 <img src="https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=2f74c0"/>
 <img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=FFFF00"/>
@@ -99,9 +102,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=Figma&logoColor=0d8200)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-black?style=for-the-badge&logo=AdobePhotoshop&logoColor=011161)
  
- 
- 
- 
  ##
 
 ![React](https://img.shields.io/badge/-React-00BFFF?style=for-the-badge&logo=react&logoColor=000)
@@ -119,7 +119,6 @@
 ![Git](https://img.shields.io/badge/-Git-f75e5e?style=for-the-badge&logo=git&logoColor=000)
 ![GitHub](https://img.shields.io/badge/-GitHub-101012?style=for-the-badge&logo=GitHub&logoColor=fff)
 ![BEM](https://img.shields.io/badge/-BEM-008275?style=for-the-badge&logo=bem&logoColor=000)
-
 
 ![Figma](https://img.shields.io/badge/-Figma-0d8200?style=for-the-badge&logo=Figma&logoColor=fff)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-011161?style=for-the-badge&logo=AdobePhotoshop&logoColor=fff)
