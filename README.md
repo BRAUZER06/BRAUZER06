@@ -68,7 +68,7 @@
  
  
  <img alt="" src="https://img.shields.io/badge/logo=Next.js&amp;labelColor=000000&amp;logoWidth=20">
- <img alt="" src="https://img.shields.io/badge/Join%20the%20community-blueviolet.svg?style=for-the-badge&amp;logo=Next.js&amp;labelColor=000000&amp;logoWidth=20">
+ <img alt="" src="https://img.shields.io/badge/Next-blueviolet.svg?style=for-the-badge&amp;logo=Next.js&amp;labelColor=000000&amp">
  
 <img src="https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=2f74c0"/>
 <img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=FFFF00"/>
