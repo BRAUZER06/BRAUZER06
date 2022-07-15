@@ -6,6 +6,12 @@
 
 <!-- ## I am a Frontend developer, I am 19 years old, I live in Ingushetia -->
 
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/murtaz-oziev-7b7b71225/)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ING_6)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](www.instagram.com/gelathoev)
+[![Mail](https://img.shields.io/badge/-Mail-090909?style=for-the-badge&logo=Mail&logoColor=4F7DB3)](https://e.mail.ru/cgi-bin/sentmsg?To=meda.oziev@mail.ru&from=otvet)
 
 
 ## Good Team lead, I know you like to look at the code, but don't look at this one)
@@ -76,13 +82,9 @@
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=000000&logo=CSS3&logoColor=1572B6&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=000000&logo=HTML5&logoColor=E34F26&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Pug&color=000000&logo=Pug&logoColor=eac8a0&label="/>
- 
-<img src="https://img.shields.io/badge/-Material.UI-090909?style=for-the-badge&logo=material.UI&logoColor=47C5FB"/>
- <img src="https://img.shields.io/badge/-Material_UI-090909?style=for-the-badge&logo=material_UI&logoColor=47C5FB"/>
- 
- 
+<img src="https://img.shields.io/badge/-Material.UI-090909?style=for-the-badge&logo=material.UI&logoColor=47C5FB"/> 
 <img src="https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=aqua"/>
-<img src="https://img.shields.io/badge/-StyledComponents-090909?style=for-the-badge&logo=StyledComponents&logoColor=aqua"/>
+<img src="https://img.shields.io/badge/-Styled_Components-090909?style=for-the-badge&logo=StyledComponents&logoColor=aqua"/>
 
 <img src="https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack&logoColor=aqua"/>
 <img src="https://img.shields.io/badge/-heroku-090909?style=for-the-badge&logo=heroku&logoColor=write"/>
@@ -109,12 +111,6 @@
 <img src="https://img.shields.io/badge/-express-090909?style=for-the-badge&logo=express&logoColor=green"/>
 <img alt="Mongoose" src="https://img.shields.io/badge/mongoose-black?style=for-the-badge&logo=mongoose">
 
-## Contact
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/murtaz-oziev-7b7b71225/)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ING_6)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](www.instagram.com/gelathoev)
-[![Mail](https://img.shields.io/badge/-Mail-090909?style=for-the-badge&logo=Mail&logoColor=4F7DB3)](https://e.mail.ru/cgi-bin/sentmsg?To=meda.oziev@mail.ru&from=otvet)
 
 </div>
 
