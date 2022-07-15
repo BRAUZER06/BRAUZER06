@@ -72,11 +72,11 @@
 <img src="https://img.shields.io/badge/-ReactRouter-090909?style=for-the-badge&logo=ReactRouter&logoColor=read"/>
 
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=000000&logo=Sass&logoColor=CC6699&label="/>
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Less&color=000000&logo=Less&logoColor=#1e416f&label="/>
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Scss&color=000000&logo=Scss&logoColor=CC6699&label="/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Less&color=000000&logo=Less&logoColor=1e416f&label="/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Scss&color=000000&logo=Scss&logoColor=fc00a8&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=000000&logo=CSS3&logoColor=1572B6&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=000000&logo=HTML5&logoColor=E34F26&label="/>
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Pug&color=000000&logo=Pug&logoColor=#eac8a0&label="/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Pug&color=000000&logo=Pug&logoColor=eac8a0&label="/>
  
 <img src="https://img.shields.io/badge/-MaterialUI-090909?style=for-the-badge&logo=materialUI&logoColor=47C5FB"/>
 <img src="https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=aqua"/>
@@ -96,7 +96,8 @@
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=000000&logo=GitHub&logoColor=FFFFFF&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHubPages&color=000000&logo=GitHub&logoColor=FFFFFF&label="/>
 
- 
+![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=Figma&logoColor=0d8200)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-black?style=for-the-badge&logo=AdobePhotoshop&logoColor=011161)
  
  
  
