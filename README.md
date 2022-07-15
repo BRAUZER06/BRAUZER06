@@ -72,7 +72,7 @@
 <img src="https://img.shields.io/badge/-ReactRouter-090909?style=for-the-badge&logo=ReactRouter&logoColor=read"/>
 
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=000000&logo=Sass&logoColor=CC6699&label="/>
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Less&color=000000&logo=Less&logoColor=CC6699&label="/>
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Less&color=000000&logo=Less&logoColor=#1e416f&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Scss&color=000000&logo=Scss&logoColor=CC6699&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=000000&logo=CSS3&logoColor=1572B6&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=000000&logo=HTML5&logoColor=E34F26&label="/>
@@ -85,12 +85,12 @@
 <img src="https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack&logoColor=aqua"/>
 <img src="https://img.shields.io/badge/-heroku-090909?style=for-the-badge&logo=heroku&logoColor=write"/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=000000&logo=Postman&logoColor=FF6C37&label="/>
-<img src="https://img.shields.io/badge/-express-090909?style=for-the-badge&logo=express&logoColor=green"/>
-
+<img alt="Mongo-DB" src="https://img.shields.io/badge/-Mongo_DB-black?style=for-the-badge&logo=MongoDB&logoColor=green" />
+<img alt="Axios" src="https://img.shields.io/badge/-Axios-black?style=for-the-badge&logo=&logoColor=white" />
+ 
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=ESLint&color=000000&logo=ESLint&logoColor=4B32C3&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Prettier&color=000000&logo=Prettier&logoColor=orange&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=BEM&color=000000&logo=BEM&logoColor=008275&label="/>
- 
  
 <img src="https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=f75e5e"/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=000000&logo=GitHub&logoColor=FFFFFF&label="/>
@@ -118,7 +118,7 @@
 ![Git](https://img.shields.io/badge/-Git-f75e5e?style=for-the-badge&logo=git&logoColor=000)
 ![GitHub](https://img.shields.io/badge/-GitHub-101012?style=for-the-badge&logo=GitHub&logoColor=fff)
 ![BEM](https://img.shields.io/badge/-BEM-008275?style=for-the-badge&logo=bem&logoColor=000)
-<img alt="Axios" src="https://img.shields.io/badge/-Axios-black?style=for-the-badge&logo=&logoColor=white" />
+
 
 ![Figma](https://img.shields.io/badge/-Figma-0d8200?style=for-the-badge&logo=Figma&logoColor=fff)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-011161?style=for-the-badge&logo=AdobePhotoshop&logoColor=fff)
@@ -132,19 +132,20 @@
 
 <img alt="Redux-Devtools" src="https://img.shields.io/badge/redux devtools-430098?style=for-the-badge&logo=redux">
 
-<img alt="Mongo-DB" src="https://img.shields.io/badge/-Mongo_DB-red?style=for-the-badge&logo=MongoDB&logoColor=black" />
+<img alt="Mongo-DB" src="https://img.shields.io/badge/-Mongo_DB-black?style=for-the-badge&logo=MongoDB&logoColor=green" />
 
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-grey?style=for-the-badge&logo=Prettier&logoColor=orange" />
 
-<!--  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-764ABC?style=for-the-badge&logo=heroku&logoColor=white" /> -->
 <img alt="express" src="https://img.shields.io/badge/express-green?style=for-the-badge&logo=express">
  <img alt="eslint" src="https://img.shields.io/badge/eslint-blue?style=for-the-badge&logo=eslint">
  
  ### That I would like to study in the future:
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=for-the-badge)
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js&logoColor=white" />
-![MobX](https://img.shields.io/badge/-MobX-black?style=for-the-badge)
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js&logoColor=green" />
+<img src="https://img.shields.io/badge/-express-090909?style=for-the-badge&logo=express&logoColor=green"/>
 <img alt="Mongoose" src="https://img.shields.io/badge/mongoose-black?style=for-the-badge&logo=mongoose">
+
+
 
 
 
