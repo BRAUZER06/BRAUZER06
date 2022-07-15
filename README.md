@@ -63,11 +63,17 @@
  
 <img src="https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=00FFFF"/>
 <img src="https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux&logoColor=8A2BE2"/>
-<img src="https://img.shields.io/badge/-Redux_Toolkit-090909?style=for-the-badge&logo=ReduxToolkit&logoColor=8A2BE2"/>
-<img src="https://img.shields.io/badge/-Redux_Thunk-090909?style=for-the-badge&logo=ReduxThunk&logoColor=430098"/>
+ 
+ 
+<img src="https://img.shields.io/badge/-Redux_Toolkit-090909?style=for-the-badge&logo=Redux_Toolkit&logoColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/-Redux_Thunk-090909?style=for-the-badge&logo=Redux_Thunk&logoColor=430098"/>
+<img alt="Redux-Thunk" src="https://img.shields.io/badge/-Redux_Thunk-black?style=for-the-badge&logo=Redux&logoColor=430098" />
+ <img alt="Redux-Thunk" src="https://img.shields.io/badge/-Redux_Toolkit-black?style=for-the-badge&logo=Redux&logoColor=430098" />
 
-<img src="https://img.shields.io/badge/-TypeScript-2f74c0?style=for-the-badge&logo=TypeScript&logoColor=8A2BE2"/>
-<img src="https://img.shields.io/badge/-JavaScript-FFFF00?style=for-the-badge&logo=JavaScript&logoColor=8A2BE2"/>
+ 
+ 
+<img src="https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=2f74c0"/>
+<img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=FFFF00"/>
 <img src="https://img.shields.io/badge/-ReactRouter-090909?style=for-the-badge&logo=ReactRouter&logoColor=read"/>
 <img src="https://img.shields.io/badge/-express-090909?style=for-the-badge&logo=express&logoColor=green"/>
 <img src="https://img.shields.io/badge/-MaterialUI-090909?style=for-the-badge&logo=materialUI&logoColor=47C5FB"/>
@@ -98,7 +104,7 @@
 ![React](https://img.shields.io/badge/-React-00BFFF?style=for-the-badge&logo=react&logoColor=000)
 ![Redux](https://img.shields.io/badge/-Redux-5A009D?style=for-the-badge&logo=redux&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-2f74c0?style=for-the-badge&logo=TypeScript&logoColor=000)
-<img alt="Redux-Thunk" src="https://img.shields.io/badge/-Redux_Thunk-white?style=for-the-badge&logo=Redux&logoColor=430098" />
+<img alt="Redux-Thunk" src="https://img.shields.io/badge/-Redux_Thunk-black?style=for-the-badge&logo=Redux&logoColor=430098" />
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=000)
 <img alt="React-Router" src="https://img.shields.io/badge/-React_Router-black?style=for-the-badge&logo=react-router&logoColor=orange" />
 
