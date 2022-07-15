@@ -113,11 +113,13 @@
 
 
 </div>
+
 ![CodeWars](https://www.codewars.com/users/AHMATOLOG/badges/large)
 
 
 <details >
   <summary>⚙️ &nbsp; Statistics:</summary>
+ </br>
  <div display='flex'>
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=brauzer06&show_icons=true&theme=dark"/></div>
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brauzer06&langs_count=8&layout=compact"/>
