@@ -65,10 +65,7 @@
 <img alt="Redux-Thunk" src="https://img.shields.io/badge/-Redux_Thunk-black?style=for-the-badge&logo=Redux&logoColor=430098" />
 <img alt="Redux-Thunk" src="https://img.shields.io/badge/-Redux_Toolkit-black?style=for-the-badge&logo=Redux&logoColor=430098" />
 <img src="https://img.shields.io/badge/-Next.js-090909?style=for-the-badge&logo=Next.js&logoColor=white"/>
- <img src="https://img.shields.io/badge/-Next.Js-090909?style=for-the-badge&logo=Next.Js&logoColor=white"/>
- <img src="https://img.shields.io/badge/-Next.JS-090909?style=for-the-badge&logo=Next.JS&logoColor=white"/>
 
- 
 <img src="https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=2f74c0"/>
 <img src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=FFFF00"/>
 <img src="https://img.shields.io/badge/-ReactRouter-090909?style=for-the-badge&logo=ReactRouter&logoColor=read"/>
@@ -80,7 +77,10 @@
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=000000&logo=HTML5&logoColor=E34F26&label="/>
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Pug&color=000000&logo=Pug&logoColor=eac8a0&label="/>
  
-<img src="https://img.shields.io/badge/-MaterialUI-090909?style=for-the-badge&logo=materialUI&logoColor=47C5FB"/>
+<img src="https://img.shields.io/badge/-Material.UI-090909?style=for-the-badge&logo=material.UI&logoColor=47C5FB"/>
+ <img src="https://img.shields.io/badge/-Material_UI-090909?style=for-the-badge&logo=material_UI&logoColor=47C5FB"/>
+ 
+ 
 <img src="https://img.shields.io/badge/-bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=aqua"/>
 <img src="https://img.shields.io/badge/-StyledComponents-090909?style=for-the-badge&logo=StyledComponents&logoColor=aqua"/>
 
