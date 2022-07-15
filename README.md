@@ -119,21 +119,23 @@
 [![Mail](https://img.shields.io/badge/-Mail-090909?style=for-the-badge&logo=Mail&logoColor=4F7DB3)](https://e.mail.ru/cgi-bin/sentmsg?To=meda.oziev@mail.ru&from=otvet)
 
 
-
+</div>
 <!-- [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/alexeyshpavda)
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/alexeyshpavda) -->
 
 
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brauzer06&show_icons=true&hide=issues,contribs&theme=Default)
-
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brauzer06&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<details>
+  <summary>:zap: Statistics:</summary>
+   <br />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=brauzer06&show_icons=true&theme=dark"/>
+  <br />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brauzer06&langs_count=8&layout=compact"/>
+</details>
 
 
-<!-- [<img align='left' alt='CodeWars' width='300px' src='https://www.codewars.com/users/AHMATOLOG/badges/large'/>](https://www.codewars.com/users/AHMATOLOG/completed_solutions) -->
 
 
-</div>
+
