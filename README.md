@@ -22,6 +22,8 @@
 
 <!-- - [Сode](https://github.com/BRAUZER06/Thisis_v2__react_project) | [Скоро](https://thises.herokuapp.com)  'Blog' React/Redux/Node.js/MongoDB 
  -->
+- [Сode](https://github.com/BRAUZER06/Beautiful_Scrolling) | [Demo](https://brauzer06.github.io/Beautiful_Scrolling)  Beautiful Scrolling
+
 - [Сode](https://github.com/BRAUZER06/Project_store) | [Demo](https://brauzer06.github.io/Project_store/) Clothing store 
 
 - [Сode](https://github.com/BRAUZER06/technical_task_5) | [Demo](https://brauzer06.github.io/technical_task_5/) Trello v2 React/Redux
@@ -40,7 +42,7 @@
  -->
 - [Сode](https://github.com/BRAUZER06/Sneakers-) | [Need to deploy](https://github.com/BRAUZER06/Sneakers-) React Sneaker Shop
 
-- [Сode](https://github.com/BRAUZER06/Archi_React_Pizza) | [Need to deploy](https://github.com/BRAUZER06/Archi_React_Pizza) Test project 'Pizza' 
+<!-- - [Сode](https://github.com/BRAUZER06/Archi_React_Pizza) | [Need to deploy](https://github.com/BRAUZER06/Archi_React_Pizza) Test project 'Pizza'  -->
 
 <!-- - [Сode](https://github.com/BRAUZER06/React_Search_Films) | [Demo](https://brauzer06.github.io/React_Search_Films/) Light Movie Website React  -->
 
