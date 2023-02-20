@@ -42,6 +42,8 @@
  -->
 - [Сode](https://github.com/BRAUZER06/Sneakers-) | [Need to deploy](https://github.com/BRAUZER06/Sneakers-) React Sneaker Shop
 
+- [Сode](https://github.com/BRAUZER06/Parallax) | [DEMO](https://brauzer06.github.io/Parallax/) Parallax Effect
+
 <!-- - [Сode](https://github.com/BRAUZER06/Archi_React_Pizza) | [Need to deploy](https://github.com/BRAUZER06/Archi_React_Pizza) Test project 'Pizza'  -->
 
 <!-- - [Сode](https://github.com/BRAUZER06/React_Search_Films) | [Demo](https://brauzer06.github.io/React_Search_Films/) Light Movie Website React  -->
