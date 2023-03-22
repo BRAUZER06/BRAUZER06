@@ -26,6 +26,8 @@
 
 - [Сode](https://github.com/BRAUZER06/Project_store) | [Demo](https://brauzer06.github.io/Project_store/) Clothing store 
 
+- [Сode](https://github.com/BRAUZER06/funny_project_react) | [Demo](https://brauzer06.github.io/funny_project_react/) Store React/Redux 
+
 - [Сode](https://github.com/BRAUZER06/technical_task_5) | [Demo](https://brauzer06.github.io/technical_task_5/) Trello v2 React/Redux
 
 - [Сode](https://github.com/BRAUZER06/converter_js) | [Demo](https://brauzer06.github.io/converter_js/) Currency Converter
