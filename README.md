@@ -8,10 +8,7 @@
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/murtaz-oziev-7b7b71225/)
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ING_6)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](www.instagram.com/gelathoev)
-[![Mail](https://img.shields.io/badge/-Mail-090909?style=for-the-badge&logo=Mail&logoColor=4F7DB3)](https://e.mail.ru/cgi-bin/sentmsg?To=meda.oziev@mail.ru&from=otvet)
+
 
 
 ## Good Team lead, I know you like to look at the code, but don't look at this one)
