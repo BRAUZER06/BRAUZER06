@@ -121,7 +121,7 @@
 
 </div>
 
-![CodeWars](https://www.codewars.com/users/AHMATOLOG/badges/large)
+
 
 
 <details >
